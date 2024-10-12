@@ -1,0 +1,9 @@
+export const types = {
+
+    LOGIN_SUCCESS: 'LOGIN_SUCCESS',
+    LOGIN_FAILED: 'LOGIN_FAILED',
+    LOGOUT: 'LOGOUT',
+    USER_UPDATED:"USER_UPDATED",
+    SET_ACCOUNT: 'SET_ACCOUNT',
+}
+

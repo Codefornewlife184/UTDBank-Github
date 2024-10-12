@@ -1,0 +1,46 @@
+/************ SearchBar ************/
+
+.SearchBar {
+  text-align: center;
+}
+
+.SearchBar input {
+  text-align: left;
+  border: 3px solid #0d6efd;
+  padding: 5px;
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+  color: #0d6efd;
+}
+
+/************ Kırmızı Ünlemi Kaldırma ************/
+
+.form-control.is-invalid {
+  background-image: none;
+}
+.dropdown-toggle {
+  color: #fff;
+  background-color: #fb391a !important;
+  border-color: #ec600d !important;
+}
+
+/************ Buton Rengi ************/
+
+.btn-primary {
+  color: #fff;
+  background-color: #fb391a !important;
+  border-color: #ec600d !important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #c03f2b !important;
+  border-color: #a78470 !important;
+}
+
+.navbar-option-item .btn1 {
+  color: #fff;
+  background-color: #c03f2b !important;
+  border-color: #a78470 !important;
+}
